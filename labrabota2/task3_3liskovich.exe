@@ -1,0 +1,239 @@
+Script started on 2022-03-11 06:10:40-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="132" LINES="35"]
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ history
+    1  vim t1.cpp
+    2  vim program.txt
+    3  sudo apt install vim
+    4  vim program.txt
+    5  help
+    6  ls
+    7  cd ..
+    8  cd
+    9  pwd
+   10  mkdir dir
+   11  ls
+   12  rmdir dir
+   13  ls
+   14  mkdir dir
+   15  mkdir dir1
+   16  cp dir dir1
+   17  cp -r dir dir1
+   18  cd dir1
+   19  ls
+   20  mv dir dir2
+   21  ls
+   22  rm dir2
+   23  > file
+   24  ls
+   25  rm file
+   26  ls
+   27  history
+   28  clean
+   29  sudo clean
+   30  help
+   31  ls
+   32  cd ..
+   33  cd
+   34  pwd
+   35  mkdir dir1
+   36  rmdir dir1
+   37  script -ttimelog5_5liskovich task5_5liskovich.txt
+   38  help
+   39  ls
+   40  cd ..
+   41  cd
+   42  pwd
+   43  mkdir dir
+   44  ls
+   45  rmdir dir
+   46  ls
+   47  mkdir dir1
+   48  mkdir dir2
+   49  ls
+   50  cp dir1 dir2
+   51  cp -r dir1 dir2
+   52  cd dir2
+   53  ls
+   54  mv dir1 dir3
+   55  ls
+   56  > file
+   57  ls
+   58  rm file
+   59  ls
+   60  history
+   61  cal
+   62  cal 2023
+   63  date
+   64  who
+   65  whoami
+   66  cal
+   67  date
+   68  cal 2023
+   69  who
+   70  whoami
+   71  script -ttimelog5_8liskovich task5_8 liskovich.txt
+   72  cd liskovich
+   73  ls
+   74  mv task5_8 task5_8liskovich.txt
+   75  ls
+   76  tee file
+   77  cat file
+   78  nano file
+   79  cat file
+   80  script -timelog5_9liskovich task5_9liskovich.txt
+   81  tee file
+   82  cat file
+   83  nano file
+   84  cat file
+   85  vim task.cpp
+   86  cd liskovich
+   87  ls
+   88  cd ~
+   89  vim tess.cpp
+   90  touch tess.cpp
+   91  ls
+   92  pwd
+   93  tess.cpp
+   94  vim tess.cpp
+   95  vim task.cpp
+   96  ls
+   97  find vim
+   98  find task.cpp
+   99  find tess.cpp
+  100  cd ..
+  101  find tess.cpp
+  102  ls
+  103  ls rostislaw/
+  104  vim tess.cpp
+  105  touch task.cpp
+  106  vim task.cpp 
+  107  touch tass.cpp
+  108  g++ task.cpp -0 task
+  109  sudo apt install g++
+  110  g++ task.cpp -0 task
+  111  sudo apt install g++
+  112  sudo apt-get install g++
+  113  g++ task.cpp -0 task
+  114  g++ task.cpp -o task
+  115  sudo apt-get install g++
+  116  g++ task.cpp -o task
+  117  sudo apt-get install g++
+  118  sudo apt install g++
+  119  sudo apt install build-essential
+  120  sudo apt-get install build-essential
+  121  sudo apt -y install build-essential
+  122  sudo apt update
+  123  sudo apt -y install g++
+  124  g++ task.cpp -o task
+  125  vim proga.cpp
+  126  g++ proga.cpp -o proga
+  127  script -ttimelog6_5liskovich task6_5liskovich.txt
+  128  echo -e "Foreground in \e[31mRed"
+  129  echo -e "Foreground in \e[31mGreen"
+  130  echo -e "Foreground in \e[32mGreen"
+  131  echo -e "Foreground in \e[33mYellow"
+  132  echo -e "Foreground in \e[34mBlue"
+  133  echo -e "Default \e[39mDefault"
+  134  echo -e "Background in \e[41mRed"
+  135  echo -e "Background in \e[42mGreen"
+  136  echo -e "Background in \e[43mYellow"
+  137  echo -e "Background in \e[44mBlue"
+  138  echo -e "Default \e[49mDefault"
+  139  echo -e "Normal \e[1mBold"
+  140  echo -e "Normal \e[4mUnderlined"
+  141  echo -e "Normal \e[5mBlink"
+  142  echo -e "\e[0mNormal Text"
+  143  date
+  144  cal 2 2020
+  145  history
+  146  history 10
+  147  cal 2 2020
+  148  man passwd
+  149  man 5 passwd
+  150  man -a passwd
+  151  info passwd
+  152  sudo /usr/sbin/makewhatis
+  153  whatis ls
+  154  whatis passwd
+  155  pwd /home/rostislaw
+  156  pwd
+  157  mkdir temp
+  158  ls
+  159  cd temp
+  160  pwd
+  161  cd ~
+  162  pwd
+  163  sudo apt install git
+  164  git config --global user.name "Rostislaw Liskovich"
+  165  git config --global user.email rostfreeman1@gmail.com
+  166  git config --list
+  167  git clone https://github.com/RostislawLiskovich/github-slideshow.git
+  168  cd github-slideshow
+  169  git branch my-slide
+  170  git push --set-upstream origin <my-slide>
+  171  git push --set-upstream origin my-slide
+  172  git checkout my-slide
+  173  touch _posts/0000-01-02-RostislawLiskovich.md
+  174  ls
+  175  cd _posts/
+  176  ls
+  177  cd ..
+  178  ls
+  179  la
+  180  cd _posts/
+  181  nano 0000-01-02-RostislawLiskovich.md 
+  182  git add 0000-01-02-RostislawLiskovich.md 
+  183  git commit -m "my-slide"
+  184  git push
+  185  add RostislawLiskovich's file
+  186  created a branch, created a file and made a commit, and opened a pull request
+  187  add RostislawLiskovich's file
+  188  created a branch, created a file and made a commit, and opened a pull request
+  189  add RostislawLiskovich's file
+  190  created a branch, created a file and made a commit, and opened a pull request
+  191  q
+  192  !wq
+  193  cd..
+  194  cd ..
+  195  ls
+  196  git checkout my-slide
+  197  vim _posts/0000-01-02-RostislawLiskovich.md
+  198  git add _posts/0000-01-02-RostislawLiskovich.md
+  199  git commit -m "My message "
+  200  git push
+  201  git checkout main
+  202  git merge my-slide
+  203  git push
+  204  git branch -d my-slide
+  205  git clone https://github.com/fpmibsulinux/linux-labraboty-2022-RostislawLiskovich
+  206  echo -e "\e[33;44mForeground in yellow. Background in blue"
+  207  echo -e "\e[39;49mDefault"
+  208  echo -e "Normal \e[1mBold\e[0m \e[4nUnderlined\e[0m \e[5mBlink \e[0m Normal"
+  209  echo -e "Normal \e[1mBold\e[0m \e[4mUnderlined\e[0m \e[5mBlink \e[0m Normal"
+  210  echo -e "\e[33;44mForeground in yellow. Background in blue"
+  211  echo -e "\e[39;49mDefault"
+  212  echo -e "Normal \e[1mBold\e[0m \e[4mUnderlined\e[0m \e[5mBlink \e[0m Normal"
+  213  echo -e "\e[33m\e[44mBlueBg YellowFg \e[1mBold \e[0m\e[33m\e[44m\e[4mUnderlined\e[0m\e[33m\e[44m \e5mBlink\e[0m\e[33m\e[44m Normal"
+  214  date "+Today is: %d-%m-%y%nThe time now is: %H:%M:%S"
+  215  cal 03 2022
+  216  cal 03 2002
+  217  history
+  218  echo -e "Normal \e[5mBlink \e[25mNormal"
+  219  echo -e "\e[0mNormal Text"
+  220  echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m"
+  221  history
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ !218
+echo -e "Normal \e[5mBlink \e[25mNormal"
+Normal [5mBlink [25mNormal
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ 
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ echo -e "Normal \e[5mBlink \e[25mNormal"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chistory[K[K[K[K[K[K[K[K!219
+echo -e "\e[0mNormal Text"
+[0mNormal Text
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ !220
+echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m"
+[1;31;42m Bold and RedFg and GreenBg [0m
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ ^42^44
+echo -e "\e[1;31;44m Bold and RedFg and GreenBg \e[0m"
+[1;31;44m Bold and RedFg and GreenBg [0m
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ exit
+
+Script done on 2022-03-11 06:11:51-08:00 [COMMAND_EXIT_CODE="0"]

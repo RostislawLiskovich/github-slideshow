@@ -1,0 +1,16 @@
+Script started on 2022-03-11 06:15:56-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="132" LINES="35"]
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ mkdir liskovich
+mkdir: cannot create directory ‘liskovich’: File exists
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ mkdir liskovich[1PiskovichLiskovich
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ cd Liskovich/
+]0;rostislaw@ubuntu: ~/Liskovich[01;32mrostislaw@ubuntu[00m:[01;34m~/Liskovich[00m$ pwd
+/home/rostislaw/Liskovich
+]0;rostislaw@ubuntu: ~/Liskovich[01;32mrostislaw@ubuntu[00m:[01;34m~/Liskovich[00m$ cd
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ pwd
+/home/rostislaw
+]0;rostislaw@ubuntu: ~[01;32mrostislaw@ubuntu[00m:[01;34m~[00m$ cd Liskovich
+]0;rostislaw@ubuntu: ~/Liskovich[01;32mrostislaw@ubuntu[00m:[01;34m~/Liskovich[00m$ pwd /home[K[K[K[K[K
+/home/rostislaw/Liskovich
+]0;rostislaw@ubuntu: ~/Liskovich[01;32mrostislaw@ubuntu[00m:[01;34m~/Liskovich[00m$ exit
+
+Script done on 2022-03-11 06:17:16-08:00 [COMMAND_EXIT_CODE="0"]
